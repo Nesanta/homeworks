@@ -1,0 +1,53 @@
+body {
+  background-color: antiquewhite;
+}
+
+h2, h3 {
+  text-align: center;
+}
+.text-1 {
+  color:rgba(0, 0, 255, 0.7);
+  font-weight: bold;
+}
+
+.text-2 {
+  font-style: italic;
+  color: #cc8029;
+}
+.text-3 {
+  text-decoration: underline;
+  color: rgb(63, 185, 46);
+}
+.text-4 {
+  text-decoration: line-through;
+  color: teal;
+}
+
+.text-5 {
+  color: rgba(255, 0, 0, 0.5)
+}
+
+.img {
+  display: block;
+  margin: auto;
+}
+
+.elefant {
+  height: 200px;
+}
+
+.main {
+  width: 80%;
+}
+
+.nav {
+  position: fixed;
+  top: 50px;
+  right: 10px;
+  width: 18%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
